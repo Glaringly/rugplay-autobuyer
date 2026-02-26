@@ -1,4 +1,4 @@
-# rugplay-autobuyer ⚡
+# rugplay-autobuyer
 
 auto buys any coin on rugplay as fast as possible. works in the background too so you dont have to sit on the tab.
 
