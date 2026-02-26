@@ -1,6 +1,6 @@
 # ⚡ RugPlay Universal AutoBuyer
 
-A Tampermonkey userscript that automatically buys **any coin** on [RugPlay.com](https://rugplay.com) at maximum speed — even when you're on a different tab or website.
+A Tampermonkey userscript that automatically buys **any coin** on [RugPlay.com](https://rugplay.com) at maximum speed, even when you're on a different tab or website.
 
 > RugPlay is a **fake crypto simulator**, no real money is involved.
 
