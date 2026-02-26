@@ -32,7 +32,7 @@ Get the Tampermonkey extension for your browser:
 
 **Option A — One-click install (recommended):**
 Click the raw file link:
-👉 [`rugplay-autobuyer.user.js`](https://raw.githubusercontent.com/YOUR_USERNAME/rugplay-autobuyer/main/rugplay-autobuyer.user.js)
+👉 [`rugplay-autobuyer.user.js`](https://raw.githubusercontent.com/Glaringly/rugplay-autobuyer/main/rugplay-autobuyer.user.js)
 
 Tampermonkey will automatically detect it and show an install prompt. Click **Install**.
 
