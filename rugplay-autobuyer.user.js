@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         RugPlay Universal AutoBuyer ⚡
-// @namespace    https://github.com/YOUR_USERNAME/rugplay-autobuyer
+// @name         RugPlay Universal AutoBuyer
+// @namespace    https://github.com/Glaringly/rugplay-autobuyer
 // @version      1.0.0
 // @description  Automatically buys any coin on RugPlay at max speed. Configure your coin & amount via the built-in panel.
-// @author       YOUR_USERNAME
+// @author       Glaringly
 // @match        https://rugplay.com/*
 // @grant        GM_setValue
 // @grant        GM_getValue
